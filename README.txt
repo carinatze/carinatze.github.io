@@ -1,4 +1,1 @@
-Hey there! My name is Carina Tze and I'm a third year student at University of British Columbia majoring in
-Integrated Sciences with a discipline focus on Computer Science and Cellular, Anatomical and Physiological Sciences.
-I am interested in technology focusing on Human Physiology and Human Artificial Intelligence Interaction.
-My personal portfolio showcases my skills and strengths through personal projects and volunteer experiences!
+Hey there! I am a third-year student studying Computer Science at the University of British Columbia and am currently interning at Simplexiar Solutions as a Software Developer.I am excited to join the tech industry after my graduation in December 2023. In my spare time, I tutor neurodiverse children how to code, am the Vice President of the Women in Computer Science student organization at UBC, and participate in hackathons during my spare time, all of which has required me to practice time management. My personal portfolio showcases my skills and strengths through personal projects and volunteer experiences!
